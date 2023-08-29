@@ -1,0 +1,35 @@
+body{
+    background-color: #F1F0E8;
+}
+
+.titulo{
+    text-align: center;
+    background-color: #191D88;
+    color: aliceblue;
+    padding: 1.5rem;
+    margin: .7rem;
+    
+}
+.titulo h1{
+    font-size: 2rem;
+}
+
+.inicios{
+    text-align: center;
+    margin: 3rem;
+}
+
+.sesion{
+    text-align: center;
+    background-color: aliceblue;
+    width: 60%;
+    margin: auto;
+    font-size: 2rem;
+
+}
+.sesion input{
+    border: none;
+    border: 1px solid black;
+    border-radius: 2erm;
+}
+

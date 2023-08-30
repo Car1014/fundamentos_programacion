@@ -1,0 +1,48 @@
+body{
+    background-color: #ffffff;
+}
+
+.titulo{
+    text-align: center;
+    background-image: radial-gradient(circle at 92.78% 50%, #f6a4ff 0, #a37eff 25%, #5053cc 50%, #002a81 75%, #000042 100%);
+    color: rgb(255, 255, 255);
+    padding: 1.5rem;
+    margin: .7rem;
+    
+}
+.titulo h1{
+    font-size: 2rem;
+}
+
+.inicios{
+    text-align: center;
+    margin: 3rem;
+}
+
+.sesion{
+    text-align: center;
+    background-color: rgb(216, 171, 171);
+    width: 60%;
+    margin: auto;
+    font-size: 2rem;
+
+    
+
+}
+.sesion input{
+    border: none;
+    border: 1px solid black;
+    border-radius: 1rem;
+    width: 70%;
+    height: 2rem;
+    background-color: rgb(255, 255, 255);
+
+}
+.sesion fieldset{
+    border: 3px solid black
+
+}
+
+.sesion p{
+    text-align: left;
+}
